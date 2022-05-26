@@ -104,51 +104,65 @@
 
 **2. Demuestre que hay 3.6 x〖10〗^6  Joules en un kilowatt-hora.**
 
+![2](https://user-images.githubusercontent.com/105742149/170535613-0a2b0eea-2a78-40fe-8f36-bcb8bfb881af.jpeg)
+
 **4. ¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?**
 
-**6.Convierta las siguientes cantidades en kilowatts:**
+![4](https://user-images.githubusercontent.com/105742149/170535651-75ef2333-5a34-4752-a0aa-68abb1271435.jpeg)
 
+**6.Convierta las siguientes cantidades en kilowatts:**
 **(a) 1000 W**    **(b) 3750 W**            **(c) 160 W**               **(d) 50,000 W**
+
+![6](https://user-images.githubusercontent.com/105742149/170535760-f7e5a242-2c78-481c-9d5a-413c95716638.jpeg)
 
 **8. Convierta las siguientes cantidades en mili watts: **
 ** (a) 1 W             (b) 0.4 W               (c) 0.002 W            (d) 0.0125 W**
 
+![8](https://user-images.githubusercontent.com/105742149/170535791-56bc63d2-9517-4c40-aa6a-30ab9af8d51c.jpeg)
+
 **10. Convierta las siguientes cantidades en watts:** 
 **(a) 1.5 kW**        **(b) 0.5 MW**           **(c) 350 mW**           **(d) 9000uC**
 
+![10](https://user-images.githubusercontent.com/105742149/170535839-89f42fbe-3537-46ab-aa8e-e17e5c10d6a4.jpeg)
+
 **12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?**
+
+![12](https://user-images.githubusercontent.com/105742149/170535872-36983cbd-1d60-4a68-85cf-f885a3bc00a9.jpeg)
 
 **14. Convierta 5x〖10〗^6 watts-minutos en kWh**.
 
-**16. Se conecta una batería de 12 V a una carga de 600 Æ. En estas condiciones, su capacidad es de 50 Ah. ¿Cuánto tiempo puede suministrar corriente a la carga?**
-**(a) 2500 h**                    **(b) 50 h**                     **(c) 25 h**             **(d) 4.16 h**
+![14](https://user-images.githubusercontent.com/105742149/170535912-c451d183-7526-4f9a-aae6-5d1fcbd8734a.jpeg)
 
-**18. Una fuente de potencia produce una salida de 0.5 W con una entrada de 0.6 W. Su porcentaje de eficiencia es**
-**(a) 50%**             **(b) 60%**                         **(c) 83.3%**                     **(d) 45%**
+**16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?**
+
+![16](https://user-images.githubusercontent.com/105742149/170536334-26c75a75-a8a2-4973-85c8-021b60b763ef.jpeg)
+
+**18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?**
+
+![18](https://user-images.githubusercontent.com/105742149/170536357-25bafacb-08e5-4dda-bf5a-62b26f76498b.jpeg)
 
 **20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4,7 kÆ?**
 
+![20](https://user-images.githubusercontent.com/105742149/170536387-68d86299-ab0d-4980-9cde-c39526c29226.jpeg)
+
 **22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?**
+
+![22](https://user-images.githubusercontent.com/105742149/170536421-687c4dde-d801-483a-9feb-2db75c8002f8.jpeg)
 
 **24. Si un resistor tiene que transportar 2 Ade corriente y manejar 100 Wde potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.**
 
+![24](https://user-images.githubusercontent.com/105742149/170537466-3a48df62-750b-4439-ba6a-a88c11d98b74.jpeg)
+
 **26. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.**
 
-**28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.**
-
-**30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?**
-
-**32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?**
-
-**34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?**
-
-**36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?**
-
+![26](https://user-images.githubusercontent.com/105742149/170537491-5a577946-eaa9-4202-bb25-5636fd2e9db3.jpeg)
 
 ### **4.	Video**
 
+https://www.youtube.com/watch?v=8MnmV8Y47UE
+
 ### **5.	Conclusiones**
-* Conocer las leyes de ohm son importantes ya que ayudan en los calculos que se tengan que realizar debidamente
+*  Conocer las leyes de ohm son importantes ya que ayudan en los calculos que se tengan que realizar debidamente
 *  Es fundamental entender las transformaciones de unidades electricas para poder comprender de mejor manera lo que un circuito nos pida 
 
 ### **6.	Bibliografía**
