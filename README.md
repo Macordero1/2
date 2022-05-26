@@ -152,3 +152,4 @@
 *  Es fundamental entender las transformaciones de unidades electricas para poder comprender de mejor manera lo que un circuito nos pida 
 
 ### **6.	Bibliografía**
+(2007). En T. L.Floyd, Principios de circuitos eléctricos Octava Edición (págs. 72-109). PEARSON Prentice Hall.
