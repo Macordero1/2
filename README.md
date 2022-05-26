@@ -58,8 +58,6 @@
 
 ![12](https://user-images.githubusercontent.com/105742149/170500390-4bfa620e-9de3-4b26-ae0c-3527e2807ea1.jpeg)
 
-**14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.**
-
 **16. Determine la corriente en cada caso:**
 
 ![16](https://user-images.githubusercontent.com/105742149/170502481-e5f3e2f6-16ef-4076-adda-daeff2045b94.jpeg)
@@ -71,8 +69,6 @@
 **20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.**
 
 ![20](https://user-images.githubusercontent.com/105742149/170502529-e995c3ed-ff04-4dbb-a772-e98048376646.jpeg)
-
-**22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?**
 
 **24. Calcule el voltaje para cada valor de I y R:**
 
@@ -93,8 +89,6 @@
 **32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.**
 
 ![32](https://user-images.githubusercontent.com/105742149/170503282-27206d77-7411-431d-b035-6230f8509511.jpeg)
-
-**34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 �.**
 
 **36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.**
 
